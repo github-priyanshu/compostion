@@ -19,13 +19,12 @@ body{
   margin: 10px 0;
 }
 .links{
-  margin: 10px 0;
+  /*margin: 10px 0;*/
 }
 .links a{
   color: #fff;
-  margin-right: 20px;
-  padding: 8px 10px;
-  border-radius: 2px;
+  margin: 5px 5px;
+  padding: 4px 10px;
   border: 1px solid #fff;
   display: inline-block;
   text-decoration: none;

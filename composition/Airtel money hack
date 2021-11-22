@@ -1,0 +1,14 @@
+I got my conputer in 2019. It was the transition period of mine like a tapole changes to frog. During the lockdown the whole day and few hours of night I got  busy in my laptop. My experience in coding was increasing almost by 12 hours per day. Looking at this very interestint work I suggested my friend to buy a laptop and start learning this. He was very good in mathematics I sad to him,"Priyanshu, see I know youtpuzzeling mind which can sove any puzzle". He said, "Oh! no. this thing everybody have but the dont't prefer to show and I just show off". I just ignored that and said to start learnign coding.
+
+After a few days, he called me and asked to come there to setup his new laptop for coding. I was excited like a mad has got freedom. I went there and gave my all coourses, setups and tips to learn it faster. In fact most of the time we were typing in the same room. his learning skill was so faster that he learnt just in a month for what I had taken whole year of lockdown. In the other hand he was caless that he didn't recheck some malecious code beofre executing just because of excitement.
+
+One day he introduced me to a bug that was found in Airtel Money bank. I just ingnored that nothing can be done with this. He said, "No I can write a code that can cause leakage of money from here". I said "I have one year more experience than you". "Ok! Your might be right", he said.
+
+The next day,
+I was thinking that that bug could surely be very harmful, but I didn't tell him because he would have surely tried. Priyanshu came with his notebook with a very excited face and explained me all about how mone cound be taken out to his bank account. For this dangerous code we found a victim who was a currupt police officer. The code needed just the phone number of victim and rest data it could come up with. He entered this number. Executed the program of $2000 which would make his balance $11000. We were waiting for confirmation message and it came with written somethign but $2000 was only visible to us because of excitement. Again he executed the program for $4000 ropees and confirmed it with the message.
+
+Now he was to check his bank money and he said it $3000 ropees only. We cound not understand this. We re-checked the 1st message and read carefull, It was, "Amt $2000 has been successfully paid from your account xxx xxx xxx 438".
+
+I understood what had happened he had switched the to and from data with a very silly mistake due to a boolean value.
+
+From then It has become his habbit to recheck the code and execute carefully.
